@@ -10,7 +10,7 @@ torch 1.10.1
 torchaudio 0.10.1
 torchtext 0.11.1
 ```
-Start with creating a virtual environment then open your terminal, follow the following steps:
+Start with creating a virtual environment then open your terminal and follow the following steps:
 ```commandline
 git clone "https://github.com/zaghlol94/Machine-Translation-Seq2Seq"
 cd Machine-Translation-Seq2Seq
