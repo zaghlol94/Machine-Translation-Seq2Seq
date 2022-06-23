@@ -7,7 +7,6 @@ Code is developed under following library dependencies
 ```commandline
 python 3.7
 torch 1.10.1
-torchaudio 0.10.1
 torchtext 0.11.1
 ```
 Start with creating a virtual environment then open your terminal and follow the following steps:
