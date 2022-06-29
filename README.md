@@ -47,3 +47,25 @@ cd src
 python test.py
 ```
 ![](imgs/belu-score.png)
+
+# Citation
+```commandline
+@misc{https://doi.org/10.48550/arxiv.1409.3215,
+  doi = {10.48550/ARXIV.1409.3215},
+  
+  url = {https://arxiv.org/abs/1409.3215},
+  
+  author = {Sutskever, Ilya and Vinyals, Oriol and Le, Quoc V.},
+  
+  keywords = {Computation and Language (cs.CL), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Sequence to Sequence Learning with Neural Networks},
+  
+  publisher = {arXiv},
+  
+  year = {2014},
+  
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
+
+```
