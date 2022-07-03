@@ -1,5 +1,5 @@
 # Machine-Translation-Seq2Seq
-This rebo is a pytorch implementation of [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
+This repo is a pytorch implementation of [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) on [Multi30k](https://metatext.io/datasets/multi30k) dataset using De->En pair language, 
 the algorithm achieved 17.50 Belu-score.
 
 # Setup And Inference
